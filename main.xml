@@ -13,16 +13,19 @@
 <name>Please Read if any Q's</name> 
 <thumbnail>http://fractalsponge.net/lambda/20.jpg</thumbnail> 
 <link>https://raw.githubusercontent.com/owestyo/TYDIRIUM/master/Please%20Read%20if%20any%20Q's</link> 
-
-<name>[COLOR orange]Korda UW[/COLOR]</name>
+#########################################################################################################################
+<name>[COLOR White]Boxing[/COLOR]</name> 
+<thumbnail>http://www.cortsoftware.com/wp-content/uploads/2015/01/How-to-Clean-Boxing-Gloves.jpg</thumbnail> 
+<link>https://raw.githubusercontent.com/owestyo/TYDIRIUM/master/Boxing</link> 
+#########################################################################################################################
+<name>[COLOR Green]Korda UW[/COLOR]</name>
 <thumbnail>http://ecx.images-amazon.com/images/I/51UgJWj3PIL._SY300_.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/owestyo/TYDIRIUM/master/Korda%20UW</link>
-
+#########################################################################################################################
 <name></name> 
 <thumbnail></thumbnail> 
 <link></link> 
-
+#########################################################################################################################
 <name></name> 
 <thumbnail></thumbnail> 
-<link></link> 
-
+<link></link>

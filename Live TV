@@ -5,7 +5,7 @@
 <item>
 <title>Channel4</title>
 <link>rtmp://live303.edge.filmon.com:1935/live/ app=live?id= playpath=2.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/2</link>
-<thumbnail></thumbnail>
+<thumbnail>any.jpg</thumbnail>
 </item>
 
 <item>
